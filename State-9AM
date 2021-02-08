@@ -1,0 +1,16 @@
+State and State Machines:
+
+State = Action or Process or Behaviour
+
+State Machine assumes only 1 state at a time.
+
+What is Scriptable Objects?
+
+Scriptable object is a class that lets you to store data in stand alone
+assets.
+
+Keep mountains of data out of our scripts.
+
+It is lightweight and convenient
+
+Used as a template for consistency.
